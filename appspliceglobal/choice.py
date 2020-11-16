@@ -1,0 +1,1 @@
+COUNTRY = ((1, "America"), (2, "Germany"), (3, "Australia"), (4, "France"))
